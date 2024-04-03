@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucasJi.
 - 👀 I’m interested in programming, reading and writing.
-- 🌱 I’m currently learning Next.js, Node.js and Tailwindcss.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Nest.js.
+- 💞️ I’m looking to collaborate on creating useful and interesting applications.
 - 📫 How to reach me: ymfs.l.j@outlook.com.
 
 <!---
